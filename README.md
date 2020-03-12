@@ -1,4 +1,4 @@
-# 청와대 청원 데이터 시각화
+# 청와대 청원 게시판 데이터 시각화
 
 ## Requirements
 
@@ -10,5 +10,12 @@
 
 All modules are installed by Anaconda.
 
-- ✅ selenium
+- ✔ selenium
 - 🧼 bs4
+- 📊 openpyxl
+- 💬 konlpy
+
+```bash
+conda install -c conda-forge jpype1
+pip install konlpy
+```
