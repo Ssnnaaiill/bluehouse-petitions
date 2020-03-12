@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 *.xlsx
+__pycache__
 
 chromedriver.exe
